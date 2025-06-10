@@ -1,5 +1,3 @@
-# temporal-image
-https://marketplace.huaweicloud.com/hidden/contents/425948e6-59f9-495d-a472-85db0d636efb#productid=OFFI1121280798300516352
 <h1 align="center">Temporal Distributed Workflow Management Platform</h1>
 <p align="center">
     <strong>English</strong> | <a href="README_ZH.md">简体中文</a>
